@@ -9,12 +9,13 @@
   font-weight: bold;
   font-size: 18px;
   line-height: 1.14;
-  color: rgb(11, 185, 11);
+  color: blue;
 }
 
 .itemPositive {
   font-weight: bold;
   font-size: 18px;
   line-height: 1.14;
-  color: blue;
+
+  color: rgb(11, 185, 11);
 }
